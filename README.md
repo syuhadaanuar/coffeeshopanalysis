@@ -5,6 +5,9 @@ _The goal of this project is to investigate the performance of the company runni
 
 <p>After six months, the new management team would like to assess the company’s performance following improvements in daily operations, marketing strategies and customer experience. The company performance has been measured by 3 metrics which are sales, customer and product.</p>
 
+**Project Background :** The analysis was conducted by using Excel, with the data sourced from the Kaggle website.</p>
+
+
 **Key Metrics Performance**
 
 1\. Sales
@@ -16,6 +19,10 @@ _The goal of this project is to investigate the performance of the company runni
 The dashboard shows the monthly sales performance over a six-month period.
 
 ## **Sales**
+
+![image](https://github.com/user-attachments/assets/d8707465-4630-43ea-968d-e99fc2811f59)
+
+The dashboard shows the monthly sales performance over a six-month period.
 
 #### _Insight_
 
