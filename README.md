@@ -16,11 +16,10 @@ _The goal of this project is to investigate the performance of the company runni
 
 3\. Product
 
-The dashboard shows the monthly sales performance over a six-month period.
 
 ## **Sales**
 
-![image](https://github.com/user-attachments/assets/d8707465-4630-43ea-968d-e99fc2811f59)
+![image](https://github.com/user-attachments/assets/47e1ccc4-635a-45e2-9310-83af7718b8b6)
 
 The dashboard shows the sales performance over a six-month period.
 
